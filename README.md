@@ -1,1 +1,1 @@
-# ARIMA-and-SARIMAX
+# ARIMA and Seasonal ARIMA (SARIMAX)
